@@ -37,13 +37,11 @@ The dataset includes:
 
 ## 🧠 Machine Learning Models Used
 
-| Model                | Accuracy |
-|---------------------|----------|
-| Logistic Regression | ~91%     |
-| Random Forest       | ~91%     |
-| SVM                 | ~90%     |
-| K-Nearest Neighbors | ~89%     |
-| Decision Tree       | ~86%     |
+ Model                
+---------------------
+ Logistic Regression 
+ Random Forest       
+
 
 📌 **Top Performers**: Logistic Regression and Random Forest
 
